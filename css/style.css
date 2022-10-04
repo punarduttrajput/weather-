@@ -1,0 +1,13 @@
+label{
+  font-style: italic;
+  font-size: 30px;
+  color:#EEEEEE;
+  }
+  button{
+    height: auto;
+    width: 60px;
+    background-color: yellow;
+  }
+  body{
+    background-color: #6F38C5;
+  }
