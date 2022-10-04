@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({
 
 app.post("/", function(req, res) {
 
-  const apiKey = "30812ebad7cf44a03176145a84c70a51";
+  const apiKey = "30812ebad7cf44a03176145a84c70a";
   const longitude = req.body.lat1;
   const lattitude = req.body.lon1;
 
